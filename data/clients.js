@@ -6,7 +6,7 @@ const clientsData = [
     id: 1, // Unique identifier for the client
     name: "Pooh Bear", // Client's name
     username: "Pooh", // username
-    email: "poohbear@example.com",
+    email: "poohbear1@example.com",
     newClient: false, // Boolean indicating if the client is new
     contactNumber: "123-456-7890" // Client's contact number
   },
